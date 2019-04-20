@@ -1,0 +1,26 @@
+/* Profile Image*/
+html
+{
+    text-align: center;
+    color: #4d5057;
+    font-size: 105%;
+}
+.profile-image img
+{   
+    border: 4xp solid white;
+    box-shadow: 0 10px 10px -6px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    height: 300px;
+}
+
+.section-header
+{   
+
+}
+/**
+grey    #4d5057
+beige   #faf3dd
+silver  #c8d5b9
+blue    #8fc0a9
+sheen   #68b0ab
+**/
